@@ -1,4 +1,5 @@
 Para correr este código se debe tener instalada la gema **text-table** ---> *gem install text-table*.
+
 Se utilizan, además, las gemas **faraday** y **json**.
 
 Se debe correr el archivo main.rb con el archivo back.rb en la misma carpeta --->  *ruby main.rb*
